@@ -21,7 +21,7 @@
   },
   {
     "id_product": 468,
-    "product_name": "Электронные книги",
+    "product_name": "Электронная книга",
     "price": 4000
   },
   {
@@ -31,17 +31,17 @@
   },
   {
     "id_product": 470,
-    "product_name": "Микрофоны",
+    "product_name": "Микрофон",
     "price": 500
   },
   {
     "id_product": 471,
-    "product_name": "Принтеры",
+    "product_name": "Принтер",
     "price": 18000
   },
   {
     "id_product": 472,
-    "product_name": "Роутеры",
+    "product_name": "Роутер",
     "price": 2500
   },
   {
@@ -51,17 +51,17 @@
   },
   {
     "id_product": 474,
-    "product_name": "Веб-камеры",
+    "product_name": "Веб-камера",
     "price": 2000
   },
   {
     "id_product": 475,
-    "product_name": "Кардридеры",
+    "product_name": "Кардридер",
     "price": 1800
   },
   {
     "id_product": 476,
-    "product_name": "Сумки",
+    "product_name": "Сумка",
     "price": 7000
   }
 ]
