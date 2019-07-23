@@ -13,5 +13,55 @@
     "id_product": 466,
     "product_name": "Монитор",
     "price": 4000
+  },
+  {
+    "id_product": 467,
+    "product_name": "Планшет",
+    "price": 4000
+  },
+  {
+    "id_product": 468,
+    "product_name": "Электронные книги",
+    "price": 4000
+  },
+  {
+    "id_product": 469,
+    "product_name": "Колонки",
+    "price": 4000
+  },
+  {
+    "id_product": 470,
+    "product_name": "Микрофоны",
+    "price": 4000
+  },
+  {
+    "id_product": 471,
+    "product_name": "Принтеры",
+    "price": 4000
+  },
+  {
+    "id_product": 472,
+    "product_name": "Роутеры",
+    "price": 4000
+  },
+  {
+    "id_product": 473,
+    "product_name": "Клавиатура",
+    "price": 4000
+  },
+  {
+    "id_product": 474,
+    "product_name": "Веб-камеры",
+    "price": 4000
+  },
+  {
+    "id_product": 475,
+    "product_name": "Кардридеры",
+    "price": 4000
+  },
+  {
+    "id_product": 476,
+    "product_name": "Сумки",
+    "price": 4000
   }
 ]
